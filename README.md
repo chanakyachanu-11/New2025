@@ -1,2 +1,2 @@
 # New2025
-Just a sample
+It consists of the info what this file is about!
